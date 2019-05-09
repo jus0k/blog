@@ -25,10 +25,11 @@ footer,
 
   &-title {
     @include transition(all .2s ease-out);
-    color: $default-color;
+    color: $default-shade;
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
+    text-transform: uppercase;
 
     &:hover,
     &:focus {
