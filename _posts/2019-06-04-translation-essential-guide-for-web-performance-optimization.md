@@ -20,7 +20,7 @@ Part 1: Optimizing Images](https://uxplanet.org/essential-guide-for-web-performa
 이미지를 최적화하면 눈에 띄게 웹 페이지를 로딩을 향상시킴으로써, 사용자의 만족도를 향상시키는 결과를 가져옵니다.  
 <br>
 ## 이미지를 최적화 해야 하는지 어떻게 알 수 있나요?  
-[웹사이트 속도 테스트 이미지 분석 도구](https://webspeedtest.cloudinary.com/)를 사용해서 사이트를 검사하면, 이미지를 더 잘 최적화하는 방법들을 알려줄 것입니다.
+[Website Speed Test Image Analysis Tool](https://webspeedtest.cloudinary.com/)를 사용해서 사이트를 검사하면, 이미지를 더 잘 최적화하는 방법들을 알려줄 것입니다.
 
 ![1](https://user-images.githubusercontent.com/43605468/58860906-2c94e180-86e8-11e9-99bd-0a23287493e2.png)
 *Medium의 이미지 분석 결과*
@@ -36,7 +36,7 @@ Part 1: Optimizing Images](https://uxplanet.org/essential-guide-for-web-performa
 
 <br>
 ### 2. 이미지 압축
-이미지 파일 크기가 작을수록, 사용자에게 더 좋은 네트워크 경험을 제공할 수 있습니다. [Squoosh](https://squoosh.app/)는 최적의 압축 수준에서 이미지를 최적화하는데 도움을 줍니다. 이 도구는 이미지의 퀄리티를 보존하면서, 눈에 띄게 이미지 크기를 줄일 수 있습니다.  
+이미지 파일 크기가 작을수록, 사용자에게 더 좋은 네트워크 경험을 제공할 수 있습니다. [Squoosh](https://squoosh.app/)는 최적의 압축 수준에서 이미지를 최적화하는데 도움을 줍니다. 이 도구로 이미지의 퀄리티를 보존하면서, 눈에 띄게 이미지 크기를 줄일 수 있습니다.  
 
 <br>
 ### 3. PNG, JPEG, SVG 파일의 크기 줄이기
