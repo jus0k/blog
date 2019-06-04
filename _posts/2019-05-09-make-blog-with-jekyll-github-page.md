@@ -9,4 +9,4 @@ Local에서 Jekyll을 설치하고 만들어서 Github에 올리는 방법과, G
 
 단순하게 로컬에서 .md 파일로 포스트를 바로 github에 올리는 방법은 테마의 레포지토리를 Fork 하면 되기 때문에 jekyll을 따로 설치하지 않아도 되는 것 같다. 하지만 로컬에서 .md파일을 보면서 작성하고, 테마를 수정하려면 jekyll을 설치해야 한다.
 
-어쨌든, 나는 [Tale]([https://github.com/chesterhow/tale](https://github.com/chesterhow/tale)) 테마를 이용해서 블로그를 만들었고, 포트폴리오 페이지도 따로 프로젝트 주소가 있기 때문에 기본 주소가 아닌 프로젝트 주소로 페이지를 만들었다. 과정을 정리해보려고 한다.
+어쨌든, 나는 [Tale]([https://github.com/chesterhow/tale](https://github.com/chesterhow/tale)) 테마를 이용해서 블로그를 만들었고, 포트폴리오 페이지도 따로 프로젝트 주소가 있기 때문에 기본 주소가 아닌 프로젝트 주소로 페이지를 만들었다. 과정을 정리해보려고 한다. 
