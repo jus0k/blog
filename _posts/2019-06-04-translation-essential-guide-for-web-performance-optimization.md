@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "[번역] 웹 성능 최적화를 위한 필수 가이드 - 1부: 이미지 최적화"
+category: Translation
+title: "웹 성능 최적화를 위한 필수 가이드 - 1부: 이미지 최적화"
 ---
 
 이 글은 [UX Planet](https://uxplanet.org/)에 [Nick Babich](https://uxplanet.org/@101)가 올린 [Essential Guide for Web Performance Optimization
@@ -11,7 +12,7 @@ Part 1: Optimizing Images](https://uxplanet.org/essential-guide-for-web-performa
 ***
 
 <br>
-# 웹 성능 최적화를 위한 필수 가이드 - 1부: 이미지 최적화
+
 웹 성능은 까다로운 주제입니다. 느린 로딩 속도를 일으키는 요인들은 굉장히 많습니다. 이번 아티클에서는, 이미지라는 요인에 대해 초점을 맞춰 이야기하고자 합니다.
 이미지는 여전히 웹에서 가장 큰 원인 중 하나입니다. 이미지는 보통 큰 파일 사이즈를 가지고 있기 때문에, 이미지를 로드하는 것은 엄청난 양의 대역폭을 사용합니다.
 
