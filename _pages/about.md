@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /about/
+title: "Jusung Kim"
 ---
 
 # 안녕하세요 🙂 <br> UI/UX 디자이너 김주성입니다.
