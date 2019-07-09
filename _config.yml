@@ -1,7 +1,7 @@
 # Site settings
 title:          Jusung Kim
 description:    "Product Designer Jusung Kim Blog"
-baseurl:        "/blog"
+baseurl:        "/"
 url:            "https://jus0k.github.io"
 
 # Google Analytics
@@ -10,7 +10,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Jusung Kim
-  url:          https://jus0k.github.io/blog
+  url:          https://jus0k.github.io/
   email:        jusung.design@gmail.com
 
 # Build settings
