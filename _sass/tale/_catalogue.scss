@@ -17,17 +17,30 @@
 
   &-time {
     color: $default-tint;
+<<<<<<< HEAD
     font-family: $serif-secondary;
     letter-spacing: .5px;
+=======
+    font-family: $sans-serif;
+    letter-spacing: .5px;
+    display: inline-block;
+    margin-bottom: 1rem;
+>>>>>>> 858fb931c5133bd9bbecb668d9200272beb53d99
   }
 
   &-title {
     color: $default-shade;
     display: block;
     font-family: $sans-serif;
+<<<<<<< HEAD
     font-size: 2rem;
     font-weight: 700;
     margin: .5rem 0;
+=======
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: .3rem 0;
+>>>>>>> 858fb931c5133bd9bbecb668d9200272beb53d99
   }
 
   &-line {
@@ -36,4 +49,14 @@
     display: block;
     width: 2rem;
   }
+<<<<<<< HEAD
+=======
+
+  &-category {
+    color: $point-color;
+    font-family: $sans-serif;
+    font-weight: 700;
+    margin: .2rem 0;
+  }
+>>>>>>> 858fb931c5133bd9bbecb668d9200272beb53d99
 }
