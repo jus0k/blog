@@ -3,25 +3,6 @@ layout: default
 ---
 
 <div class="post">
-<<<<<<< HEAD
-  <div class="post-info">
-    <span>Written by</span>
-    {% if page.author %}
-        {{ page.author }}
-    {% else %}
-        {{ site.author.name }}
-    {% endif %}
-
-    {% if page.date %}
-      <br>
-      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
-    {% endif %}
-  </div>
-
-  <h1 class="post-title">{{ page.title }}</h1>
-  <div class="post-line"></div>
-
-=======
   <div class="post-category">{{ page.category }}</div>
   <h1 class="post-title">{{ page.title }}</h1>
 
@@ -31,7 +12,6 @@ layout: default
     {% endif %}
   </div>
 
->>>>>>> 858fb931c5133bd9bbecb668d9200272beb53d99
   {{ content }}
 
 </div>

@@ -3,28 +3,16 @@
 
   &-info {
     color: $default-tint;
-<<<<<<< HEAD
-    font-family: $serif-secondary;
-    letter-spacing: 0.5px;
-    text-align: center;
-=======
     font-family: $sans-serif;
     letter-spacing: 0.5px;
     text-align: center;
     margin-bottom: 5rem;
->>>>>>> 858fb931c5133bd9bbecb668d9200272beb53d99
 
     span {
       font-style: italic;
     }
   }
 
-<<<<<<< HEAD
-  &-title {
-    color: $default-shade;
-    font-family: $sans-serif;
-    font-size: 4rem;
-=======
   &-category {
     color: $point-color;
     font-family: $sans-serif;
@@ -37,21 +25,10 @@
     color: $default-shade;
     font-family: $sans-serif;
     font-size: 2rem;
->>>>>>> 858fb931c5133bd9bbecb668d9200272beb53d99
     margin: 1rem 0;
     text-align: center;
   }
 
-<<<<<<< HEAD
-  &-line {
-    border-top: 0.4rem solid $default-shade;
-    display: block;
-    margin: 0 auto 3rem;
-    width: 4rem;
-  }
-
-=======
->>>>>>> 858fb931c5133bd9bbecb668d9200272beb53d99
   p {
     margin: 0 0 1rem;
     text-align: justify;

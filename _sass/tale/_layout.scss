@@ -1,39 +1,18 @@
 .container {
   margin: 0 auto;
-<<<<<<< HEAD
-  max-width: 800px;
-=======
   max-width: 750px;
->>>>>>> 858fb931c5133bd9bbecb668d9200272beb53d99
   width: 80%;
 }
 
 main,
-<<<<<<< HEAD
-footer,
-.nav-container {
-  display: block;
-  margin: 0 auto;
-  max-width: 800px;
-=======
 footer {
   display: block;
   margin: 0 auto;
   max-width: 750px;
->>>>>>> 858fb931c5133bd9bbecb668d9200272beb53d99
   width: 80%;
 }
 
 .nav {
-<<<<<<< HEAD
-  box-shadow: 0 2px 2px -2px $shadow-color;
-  overflow: auto;
-
-  &-container {
-    margin: 1rem auto;
-    position: relative;
-    text-align: center;
-=======
   overflow: auto;
 
   &-container {
@@ -42,17 +21,10 @@ footer {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
->>>>>>> 858fb931c5133bd9bbecb668d9200272beb53d99
   }
 
   &-title {
     @include transition(all .2s ease-out);
-<<<<<<< HEAD
-    color: $default-color;
-    display: inline-block;
-    margin: 0;
-    padding-right: .2rem;
-=======
     color: $default-shade;
     display: inline-block;
     margin: 0;
@@ -60,7 +32,6 @@ footer {
     line-height: 1;
     font-size: 1.3rem;
     font-weight: 900;
->>>>>>> 858fb931c5133bd9bbecb668d9200272beb53d99
 
     &:hover,
     &:focus {
@@ -70,26 +41,17 @@ footer {
 
   ul {
     list-style-type: none;
-<<<<<<< HEAD
-    margin: 1rem 0 0;
-    padding: 0;
-    text-align: center;
-=======
     padding: 0;
     margin: 0;
     display: flex;
     flex-direction: row;
->>>>>>> 858fb931c5133bd9bbecb668d9200272beb53d99
   }
 
   li {
     @include transition(all .2s ease-out);
     color: $default-color;
     display: inline-block;
-<<<<<<< HEAD
-=======
     text-transform: uppercase;
->>>>>>> 858fb931c5133bd9bbecb668d9200272beb53d99
     opacity: .6;
     padding: 0 2rem 0 0;
 
@@ -106,40 +68,26 @@ footer {
   a {
     color: $default-color;
     font-family: $sans-serif;
-<<<<<<< HEAD
-=======
     font-size: 0.9rem;
->>>>>>> 858fb931c5133bd9bbecb668d9200272beb53d99
   }
 }
 
 @media (min-width: 600px) {
   .nav {
     &-container {
-<<<<<<< HEAD
-=======
       margin: 50px;
->>>>>>> 858fb931c5133bd9bbecb668d9200272beb53d99
       text-align: left;
     }
 
     ul {
       bottom: 0;
-<<<<<<< HEAD
-      position: absolute;
-=======
->>>>>>> 858fb931c5133bd9bbecb668d9200272beb53d99
       right: 0;
     }
   }
 }
 
 footer {
-<<<<<<< HEAD
-  font-family: $serif-secondary;
-=======
   font-family: $sans-serif;
->>>>>>> 858fb931c5133bd9bbecb668d9200272beb53d99
   padding: 2rem 0;
   text-align: center;
 
